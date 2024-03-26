@@ -1,0 +1,15 @@
+/home/gerard/Desktop/UCB/UCB/Fundamentos de Software/MRUA/mrua-console-app/miApp/bin/Debug/net8.0/miApp
+/home/gerard/Desktop/UCB/UCB/Fundamentos de Software/MRUA/mrua-console-app/miApp/bin/Debug/net8.0/miApp.deps.json
+/home/gerard/Desktop/UCB/UCB/Fundamentos de Software/MRUA/mrua-console-app/miApp/bin/Debug/net8.0/miApp.runtimeconfig.json
+/home/gerard/Desktop/UCB/UCB/Fundamentos de Software/MRUA/mrua-console-app/miApp/bin/Debug/net8.0/miApp.dll
+/home/gerard/Desktop/UCB/UCB/Fundamentos de Software/MRUA/mrua-console-app/miApp/bin/Debug/net8.0/miApp.pdb
+/home/gerard/Desktop/UCB/UCB/Fundamentos de Software/MRUA/mrua-console-app/miApp/obj/Debug/net8.0/miApp.GeneratedMSBuildEditorConfig.editorconfig
+/home/gerard/Desktop/UCB/UCB/Fundamentos de Software/MRUA/mrua-console-app/miApp/obj/Debug/net8.0/miApp.AssemblyInfoInputs.cache
+/home/gerard/Desktop/UCB/UCB/Fundamentos de Software/MRUA/mrua-console-app/miApp/obj/Debug/net8.0/miApp.AssemblyInfo.cs
+/home/gerard/Desktop/UCB/UCB/Fundamentos de Software/MRUA/mrua-console-app/miApp/obj/Debug/net8.0/miApp.csproj.CoreCompileInputs.cache
+/home/gerard/Desktop/UCB/UCB/Fundamentos de Software/MRUA/mrua-console-app/miApp/obj/Debug/net8.0/miApp.sourcelink.json
+/home/gerard/Desktop/UCB/UCB/Fundamentos de Software/MRUA/mrua-console-app/miApp/obj/Debug/net8.0/miApp.dll
+/home/gerard/Desktop/UCB/UCB/Fundamentos de Software/MRUA/mrua-console-app/miApp/obj/Debug/net8.0/refint/miApp.dll
+/home/gerard/Desktop/UCB/UCB/Fundamentos de Software/MRUA/mrua-console-app/miApp/obj/Debug/net8.0/miApp.pdb
+/home/gerard/Desktop/UCB/UCB/Fundamentos de Software/MRUA/mrua-console-app/miApp/obj/Debug/net8.0/miApp.genruntimeconfig.cache
+/home/gerard/Desktop/UCB/UCB/Fundamentos de Software/MRUA/mrua-console-app/miApp/obj/Debug/net8.0/ref/miApp.dll

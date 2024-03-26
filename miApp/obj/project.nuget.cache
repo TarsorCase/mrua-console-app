@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "kGUx5N3+fynu0R5hsy5lSE5J1I3uRY8hk+UZ6y7aThNYrepnExNlgluTnffky/Mwj/8PLqmPYgrWG9Fj04bzZQ==",
+  "success": true,
+  "projectFilePath": "/home/gerard/Desktop/UCB/UCB/Fundamentos de Software/MRUA/mrua-console-app/miApp/miApp.csproj",
+  "expectedPackageFiles": [
+    "/home/gerard/.nuget/packages/microsoft.aspnetcore.app.ref/8.0.3/microsoft.aspnetcore.app.ref.8.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}
