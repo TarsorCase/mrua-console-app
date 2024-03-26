@@ -18,6 +18,8 @@ namespace MRUAConsoleApp
 
             double distancia = velocidadInicial * tiempo + 0.5 * aceleracion * Math.Pow(tiempo, 2);
             Console.WriteLine($"La distancia recorrida es: {distancia/1000} Km");
+            Console.WriteLine($"La distancia recorrida es: {distancia*1.09361} Km");
+            Console.WriteLine($"La distancia recorrida es: {distancia*39.3701} Km");
         }
     }
 }
